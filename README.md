@@ -13,19 +13,30 @@ Guided project
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.
 
 ### Project tasks
+
 Loading a friend's data into a dictionary
+
 Creating a DataFrame from a dictionary
+
 A visual inspection of our data
+
 Loading the rest of the data from a CSV
+
 Filtering for movies!
+
 Creating a scatter plot
+
 Digging deeper
+
 Marking non-feature films
+
 Plotting with color!
 What next?
+
 Unguided project
 ### Project task
 Create a matplotlib scatter plot of the data that contains the following attributes:
+
 Each episode's episode number plotted along the x-axis
 Each episode's viewership (in millions) plotted along the y-axis
 A color scheme reflecting the scaled ratings (not the regular ratings) of each episode, such that:
